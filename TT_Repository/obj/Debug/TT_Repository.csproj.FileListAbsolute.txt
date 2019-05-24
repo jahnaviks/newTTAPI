@@ -1,0 +1,14 @@
+C:\A&E\TT\TT_Repository\bin\Debug\TT_Repository.dll
+C:\A&E\TT\TT_Repository\bin\Debug\TT_Repository.pdb
+C:\A&E\TT\TT_Repository\bin\Debug\TT_Common.dll
+C:\A&E\TT\TT_Repository\bin\Debug\TT_Common.pdb
+C:\A&E\TT\TT_Repository\obj\Debug\TT_Repository.csprojResolveAssemblyReference.cache
+C:\A&E\TT\TT_Repository\obj\Debug\TT_Repository.dll
+C:\A&E\TT\TT_Repository\obj\Debug\TT_Repository.pdb
+C:\AE\TT\TT_Repository\bin\Debug\TT_Repository.dll
+C:\AE\TT\TT_Repository\bin\Debug\TT_Repository.pdb
+C:\AE\TT\TT_Repository\bin\Debug\TT_Common.dll
+C:\AE\TT\TT_Repository\bin\Debug\TT_Common.pdb
+C:\AE\TT\TT_Repository\obj\Debug\TT_Repository.csprojResolveAssemblyReference.cache
+C:\AE\TT\TT_Repository\obj\Debug\TT_Repository.dll
+C:\AE\TT\TT_Repository\obj\Debug\TT_Repository.pdb
